@@ -1,0 +1,180 @@
+ python3 speech-to-text.py
+Detected language 'en' with probability 0.99
+[0.05s -> 3.49s]  All phone calls are subject to monitoring and recording.
+[41.86s -> 52.40s]  Tell him a fucking KSA, bro. I need you to really do this for me.
+[53.08s -> 57.34s]  I really need you to call the jail, and I really need you to start fucking making a problem about this shit.
+[62.96s -> 64.16s]  What do you want me to say?
+[64.56s -> 67.48s]  What do you mean? Say everything. Say anything you can, bro.
+[69.59s -> 70.27s]  About what?
+[70.75s -> 73.79s]  About me being on KSA, the fact that I shouldn't even be on this shit.
+[74.54s -> 75.56s]  Whatever. Say something.
+[76.94s -> 78.10s]  How long have you been on it?
+[78.44s -> 81.43s]  I've been on it for a week and a half. I'm not even supposed to be on this shit no more.
+[82.96s -> 85.96s]  And you put in requests and requests, and it just keeps night number one.
+[86.48s -> 89.64s]  And ignoring me, and denying me, and the wrong people look at it, and all this other shit.
+[105.62s -> 106.68s]  Bro, I gotta go back.
+[108.08s -> 108.36s]  Already?
+[109.34s -> 111.94s]  Yes. That's why I was trying to fucking call you, bro.
+[112.46s -> 115.07s]  Okay, I'm sorry, okay? I'll make sure I am coming.
+[115.07s -> 117.47s]  Okay, listen to me, guys. Stop doing this shit to me, please.
+[117.87s -> 120.99s]  I'm not fucking playing no more. We're not doing this dumbass shit no more.
+[121.01s -> 121.33s]  For real.
+[121.47s -> 122.61s]  Okay, okay.
+[122.83s -> 125.79s]  This is the last fucking shit. This is the last fucking time. I'm serious.
+[126.11s -> 130.49s]  I'm dead serious on my son's life, on Bobby's life, on my brother, on my mom, on us, on everything.
+[130.49s -> 138.25s]  I'm dead serious. If this shit happens again, I'm fucking, for real. I'm done talking to you. I'm done talking to you.
+[138.53s -> 140.09s]  What happens again?
+[140.23s -> 146.70s]  This shit right here. This, this, this, this shit, all this, this petty ass dumb shit that can happen again is done.
+[149.60s -> 150.48s]  Talking about what, okay?
+[150.98s -> 154.52s]  This right here? What do you mean? This shit that happens every time.
+[155.43s -> 156.03s]  Okay, Bradley.
+[157.28s -> 161.80s]  Are you taking it serious or not? Because if you're not, then there's no point in me fucking killing another chance.
+[161.80s -> 176.53s]  I'm taking it serious. I'm taking it serious. Are you there?
+[176.95s -> 181.63s]  I'm here. Do you still love me?
+[182.96s -> 185.62s]  Of course I still love you, Bradley. Are you crazy?
+[186.20s -> 194.38s]  These first few years of fucking prison are going to be fucked up. You know what I'm saying?
+[194.52s -> 197.84s]  So, I'm going to need somebody right here. You know what I'm saying?
+[200.60s -> 201.22s]  I understand.
+[203.05s -> 204.57s]  You can't promise me that you can do that.
+[206.48s -> 210.70s]  I can try my best to be. I can try my best to be there for you, yes.
+[214.17s -> 216.89s]  Fuck, fuck being here for me. You need to try to be with me.
+[218.22s -> 218.62s]  Bradley?
+[219.22s -> 220.76s]  Chloe, I'm serious, fool.
+[221.14s -> 222.56s]  Bradley?
+[223.69s -> 224.57s]  You can't do that.
+[227.44s -> 232.02s]  How about we work on getting along first, and then we'll discuss that.
+[232.36s -> 244.93s]  Listen, bro, if your feelings aren't from a different spot, a different part of your heart than what they have been, girl, we're not going to grow in any way.
+[245.37s -> 246.43s]  There has to be understanding.
+[247.45s -> 248.65s]  What are you talking about?
+[248.91s -> 250.23s]  Exactly what I just said.
+[250.67s -> 268.18s]  Put on two different fucking, I don't know what to fucking, I don't know what to tell you.
+[268.18s -> 276.60s]  I don't know. I don't know what you mean. You don't know what to tell me why, but I do.
+[277.61s -> 280.98s]  You can't, you can't try to be with me.
+[283.02s -> 292.71s]  I don't know. Like I said, let's work on getting along first, and then we'll talk about this. I'll consider it. But, we have to work on getting along first.
+[295.75s -> 297.69s]  You know that I've been talking to somebody?
+[298.62s -> 298.96s]  Huh?
+[300.12s -> 301.94s]  I said, you know that I've been talking to somebody.
+[302.40s -> 309.84s]  Yeah, but he's a young ass little fucking bull, you know? Like, the kid hasn't been through shit.
+[312.77s -> 313.61s]  You don't know that.
+[314.01s -> 314.11s]  And neither do I.
+[314.11s -> 315.75s]  What have you been through?
+[316.61s -> 319.35s]  I said, you don't know that, and neither do I.
+[319.75s -> 326.26s]  You're going to shoot him over me.
+[329.40s -> 332.10s]  Okay, then. That's what I'm saying. So, cut that shit off.
+[333.39s -> 335.47s]  That's bullshit, Bradley. Don't do that.
+[335.47s -> 335.75s]  What's bullshit?
+[339.80s -> 340.52s]  What's bullshit?
+[345.53s -> 347.37s]  You trying to do that.
+[347.81s -> 348.47s]  Trying to do what?
+[348.47s -> 354.84s]  Trying to say that that's me choosing him over you, because that's bullshit.
+[356.63s -> 357.95s]  Okay. Well, then choose me.
+[360.22s -> 361.66s]  I'm saying stop doing that.
+[362.30s -> 363.52s]  Well, I'm saying come home.
+[365.00s -> 365.40s]  Bradley.
+[373.20s -> 374.16s]  I'll consider it.
+[374.46s -> 377.10s]  Consider it. Let's do it. Let's work on it.
+[377.18s -> 379.28s]  No, I'll consider it.
+[379.62s -> 387.72s]  Make you feel like I'll make you feel?
+[389.58s -> 390.02s]  No.
+[390.52s -> 392.94s]  See him already?
+[393.44s -> 403.24s]  Where'd you see him, man?
+[403.56s -> 404.81s]  What's up, God?
+[404.87s -> 406.76s]  Why does it matter?
+[407.22s -> 408.66s]  Where'd you see him, man? Just tell me.
+[409.46s -> 410.46s]  Why does it matter?
+[410.66s -> 411.56s]  Can you please just tell me?
+[412.66s -> 415.28s]  We went to eat with him a few weekends ago.
+[417.08s -> 417.52s]  Huh?
+[419.24s -> 423.20s]  We went to eat with him a few weekends ago at Stare with you.
+[424.45s -> 425.25s]  You said the kids?
+[425.73s -> 429.00s]  No, we mean Caitlin and her boyfriend.
+[432.67s -> 435.01s]  What's his name? Is this Peyton? Is it the same dude?
+[436.19s -> 437.83s]  Fuck no, it's not Peyton.
+[439.18s -> 440.34s]  What's this kid's name?
+[442.54s -> 443.64s]  I'm not telling you.
+[443.84s -> 444.64s]  What's his name?
+[444.64s -> 447.06s]  I'm not telling you.
+[447.40s -> 448.10s]  Please tell me.
+[457.19s -> 458.07s]  His name's Devin.
+[458.61s -> 459.29s]  Devin who?
+[461.05s -> 462.33s]  Devin is his name.
+[462.73s -> 463.33s]  Devin who?
+[464.32s -> 466.34s]  I don't know what his last name is.
+[469.29s -> 470.29s]  Why wouldn't you tell me?
+[470.61s -> 476.30s]  What'd you meet him at Facebook?
+[478.71s -> 479.09s]  Yeah.
+[479.51s -> 489.55s]  You guys fuck already?
+[490.55s -> 491.03s]  No.
+[491.41s -> 493.69s]  You going to?
+[496.25s -> 496.65s]  Nope.
+[498.06s -> 498.90s]  You're lying to me.
+[502.78s -> 503.42s]  No, I'm not.
+[504.04s -> 505.60s]  You're not sexually attracted to him.
+[507.13s -> 508.01s]  Of course I am.
+[508.47s -> 516.87s]  You see your body and you see his and all that?
+[518.50s -> 518.90s]  No.
+[521.25s -> 522.41s]  Why do you feel like lying to me?
+[523.71s -> 524.83s]  No, I do.
+[525.55s -> 545.96s]  Are you going back in or what?
+[546.40s -> 566.06s]  Don't be fucking telling me one thing and start doing fucking lying shit with me.
+[567.39s -> 567.95s]  I'm not.
+[573.45s -> 574.21s]  Did Ivor like him?
+[576.36s -> 576.78s]  What?
+[578.01s -> 578.93s]  Did Ivor like him?
+[578.93s -> 581.08s]  What are you talking about?
+[582.80s -> 583.86s]  He hasn't been around the days.
+[584.87s -> 585.31s]  No.
+[590.29s -> 593.09s]  Is Peyton just some fucking matchmaker or what?
+[593.71s -> 594.07s]  No.
+[595.33s -> 596.67s]  She's not a matchmaker.
+[596.81s -> 597.47s]  What are you talking about?
+[597.47s -> 602.31s]  Last time you were with fucking Peyton and you guys did all that shit, Caitlin was there too.
+[602.59s -> 604.87s]  And with this nigga right here, Caitlin was there too.
+[619.83s -> 621.63s]  That's why Caitlin just laughs at me and shit.
+[621.91s -> 622.97s]  Because all the shit you said to me.
+[622.97s -> 623.03s]  Nope.
+[623.83s -> 625.47s]  She's not laughing at you.
+[625.53s -> 626.61s]  I already told you.
+[627.99s -> 630.79s]  And who gives a fuck if she was, but she's not?
+[631.60s -> 632.10s]  She's what?
+[632.54s -> 637.88s]  Who gives a fuck if she was, but she's not?
+[638.18s -> 639.44s]  Well, I give a fuck if she was.
+[639.52s -> 640.04s]  What do you mean?
+[640.69s -> 642.17s]  Okay, well, she's not.
+[642.31s -> 642.63s]  Bradley?
+[643.17s -> 644.23s]  Stop yelling at me.
+[644.23s -> 663.70s]  What the fuck is your problem?
+[664.20s -> 664.52s]  A lot.
+[664.60s -> 666.02s]  A lot is my fucking problem, sir.
+[666.16s -> 667.06s]  A lot is my problem.
+[670.19s -> 671.21s]  You gonna come home or not?
+[672.92s -> 674.96s]  Bradley, I told you I'll consider it if we can start to go home.
+[674.96s -> 675.96s]  Are you gonna come home or not?
+[676.40s -> 677.94s]  I can't tell you yes or no.
+[678.28s -> 679.24s]  Tell me yes or no.
+[680.28s -> 681.74s]  I can't tell you yes or no.
+[681.98s -> 683.96s]  Are you coming home or are you not coming home?
+[684.40s -> 687.03s]  I'm not answering that.
+[687.77s -> 688.63s]  Bro, just tell me.
+[689.47s -> 690.91s]  I'm not answering that.
+[691.41s -> 691.85s]  Realistically.
+[693.47s -> 694.83s]  I'm not answering that, so.
+[695.01s -> 695.47s]  So no.
+[695.89s -> 703.92s]  No what?
+[704.56s -> 705.28s]  You're not coming home.
+[708.21s -> 709.66s]  Yes or no, Chloe.
+[710.20s -> 711.46s]  That's all I want is yes or no.
+[716.55s -> 718.91s]  I'm not taking you at a yes or no.
+[719.29s -> 725.23s]  You're gonna make this shit this hard?
+[725.39s -> 727.05s]  You're really gonna make me sit here and fucking wait?
+[730.46s -> 732.28s]  We'll see if we can start to get along.
+[733.32s -> 733.82s]  If what?
+[736.58s -> 739.16s]  We will see if we can start to get along.
+[739.64s -> 745.75s]  So you're gonna pursue this shit with Evan or no?
+[747.94s -> 749.64s]  I'm not gonna stop talking to him.
+[753.58s -> 753.90s]  Whatever.
+[754.50s -> 760.87s]  You mad about it?
+[763.34s -> 763.72s]  Whatever.
+[764.08s -> 770.31s]  You're the best, Chloe.
+[772.62s -> 786.42s]  All right,
+[786.42s -> 789.34s]  so we're not even on a coach?

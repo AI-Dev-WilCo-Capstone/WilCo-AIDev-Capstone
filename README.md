@@ -1,5 +1,7 @@
 # WilCo Speech-to-Text Transcription
-## ****Read Description***
+
+## ***Read the Description***
+
 This project provides a simple interface for transcribing audio files to text using the Whisper model via the `faster-whisper` library.
 
 ## Features
@@ -24,7 +26,7 @@ This project provides a simple interface for transcribing audio files to text us
    ```
 
 ## Usage
-1. Place your audio file (e.g., `your_audio_file.wav`) in the project directory.
+1. Place your audio file (e.g., `your_audio_file.wav`) in the project directory. *** gonna fix that ***
 2. Run the transcription script:
    ```zsh
    python speech-to-text.py
@@ -35,7 +37,7 @@ This project provides a simple interface for transcribing audio files to text us
 - To use a different audio file, change the filename in `speech-to-text.py`:
   ```python
   segments, info = model.transcribe(
-      "your_audio_file.wav",  # Change this to your file
+      "your_audio_file.wav",  # Change this to your file ***** NOT , fixing this hardcoding asap
       beam_size=5,
       vad_filter=True,
       vad_parameters=dict(min_silence_duration_ms=500)
